@@ -1,0 +1,3 @@
+"D:\Program Files\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Army.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Army.dir/objects.a @CMakeFiles\Army.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Army.dir/objects.a -Wl,--no-whole-archive  -o Army.exe -Wl,--out-implib,libArmy.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Army.dir\linklibs.rsp

@@ -1,0 +1,10 @@
+//
+// Created by GL502VM on 13.10.2020.
+//
+
+#ifndef ARMY_VAMPIRECONVERTEXCEPTION_H
+#define ARMY_VAMPIRECONVERTEXCEPTION_H
+
+class VampireConvertException {};
+
+#endif //ARMY_VAMPIRECONVERTEXCEPTION_H

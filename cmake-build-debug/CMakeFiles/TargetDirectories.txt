@@ -1,0 +1,3 @@
+C:/Users/GL502VM/CLionProjects/Army/cmake-build-debug/CMakeFiles/Army.dir
+C:/Users/GL502VM/CLionProjects/Army/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/GL502VM/CLionProjects/Army/cmake-build-debug/CMakeFiles/rebuild_cache.dir

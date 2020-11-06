@@ -1,0 +1,10 @@
+//
+// Created by GL502VM on 13.10.2020.
+//
+
+#ifndef ARMY_WEREWOLFCONVERTEXCEPTION_H
+#define ARMY_WEREWOLFCONVERTEXCEPTION_H
+
+class WerewolfConvertException {};
+
+#endif //ARMY_WEREWOLFCONVERTEXCEPTION_H

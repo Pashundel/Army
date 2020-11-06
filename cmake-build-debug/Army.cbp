@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Army"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/GL502VM/CLionProjects/Army/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/GL502VM/CLionProjects/Army/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/GL502VM/CLionProjects/Army/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/GL502VM/CLionProjects/Army/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/GL502VM/CLionProjects/Army/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Army">
+				<Option output="C:/Users/GL502VM/CLionProjects/Army/cmake-build-debug/Army.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/GL502VM/CLionProjects/Army/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/4.5.2/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/4.5.2/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/4.5.2/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/4.5.2/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/4.5.2/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/4.5.2/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/GL502VM/CLionProjects/Army/cmake-build-debug/Makefile&quot;  VERBOSE=1 Army"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/GL502VM/CLionProjects/Army/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/GL502VM/CLionProjects/Army/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/GL502VM/CLionProjects/Army/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Army/fast">
+				<Option output="C:/Users/GL502VM/CLionProjects/Army/cmake-build-debug/Army.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/GL502VM/CLionProjects/Army/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/4.5.2/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/4.5.2/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/4.5.2/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/4.5.2/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/4.5.2/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/4.5.2/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/GL502VM/CLionProjects/Army/cmake-build-debug/Makefile&quot;  VERBOSE=1 Army/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/GL502VM/CLionProjects/Army/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/GL502VM/CLionProjects/Army/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/GL502VM/CLionProjects/Army/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/GL502VM/CLionProjects/Army/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/GL502VM/CLionProjects/Army/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/GL502VM/CLionProjects/Army/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/GL502VM/CLionProjects/Army/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/GL502VM/CLionProjects/Army/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/GL502VM/CLionProjects/Army/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/GL502VM/CLionProjects/Army/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/GL502VM/CLionProjects/Army/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/GL502VM/CLionProjects/Army/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/GL502VM/CLionProjects/Army/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/ability/Ability.cpp">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/ability/Ability.h">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/ability/BerserkAbility.cpp">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/ability/BerserkAbility.h">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/ability/DemonAbility.cpp">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/ability/DemonAbility.h">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/ability/RogueAbility.cpp">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/ability/RogueAbility.h">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/ability/SoldierAbility.cpp">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/ability/SoldierAbility.h">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/ability/VampireAbility.cpp">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/ability/VampireAbility.h">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/ability/WerewolfAbility.cpp">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/ability/WerewolfAbility.h">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/exeptions/NoHPException.cpp">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/exeptions/NoHPException.h">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/exeptions/VampireConvertException.cpp">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/exeptions/VampireConvertException.h">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/exeptions/WerewolfConvertException.cpp">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/exeptions/WerewolfConvertException.h">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/main.cpp">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/player/Player.cpp">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/player/Player.h">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/spell/FireBall.cpp">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/spell/FireBall.h">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/spell/IceSpire.cpp">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/spell/IceSpire.h">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/spell/LowerHeal.cpp">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/spell/LowerHeal.h">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/spell/MasterHeal.cpp">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/spell/MasterHeal.h">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/spell/Spell.cpp">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/spell/Spell.h">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/spellCasterAbility/HealerAbility.cpp">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/spellCasterAbility/HealerAbility.h">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/spellCasterAbility/NecromancerAbility.cpp">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/spellCasterAbility/NecromancerAbility.h">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/spellCasterAbility/PriestAbility.cpp">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/spellCasterAbility/PriestAbility.h">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/spellCasterAbility/SpellCasterAbility.cpp">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/spellCasterAbility/SpellCasterAbility.h">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/spellCasterAbility/WarlockAbility.cpp">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/spellCasterAbility/WarlockAbility.h">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/spellCasterAbility/WizardAbility.cpp">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/spellCasterAbility/WizardAbility.h">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/spellcaster/Healer.cpp">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/spellcaster/Healer.h">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/spellcaster/Necromancer.cpp">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/spellcaster/Necromancer.h">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/spellcaster/Priest.cpp">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/spellcaster/Priest.h">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/spellcaster/Spellcaster.cpp">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/spellcaster/Spellcaster.h">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/spellcaster/Warlock.cpp">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/spellcaster/Warlock.h">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/spellcaster/Wizard.cpp">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/spellcaster/Wizard.h">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/state/State.cpp">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/state/State.h">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/unit/Unit.cpp">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/unit/Unit.h">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/warrior/Berserk.cpp">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/warrior/Berserk.h">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/warrior/Demon.cpp">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/warrior/Demon.h">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/warrior/Rogue.cpp">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/warrior/Rogue.h">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/warrior/Soldier.cpp">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/warrior/Soldier.h">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/warrior/Vampire.cpp">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/warrior/Vampire.h">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/warrior/Warrior.cpp">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/warrior/Warrior.h">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/warrior/Werewolf.cpp">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/warrior/Werewolf.h">
+			<Option target="Army"/>
+		</Unit>
+		<Unit filename="C:/Users/GL502VM/CLionProjects/Army/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/GL502VM/CLionProjects/Army/main.cpp
+player/Player.h
+C:/Users/GL502VM/CLionProjects/Army/player/Player.h
+
+C:/Users/GL502VM/CLionProjects/Army/player/Player.h
+map
+-
+../unit/Unit.h
+C:/Users/GL502VM/CLionProjects/Army/unit/Unit.h
+
+C:/Users/GL502VM/CLionProjects/Army/state/State.h
+iostream
+-
+../unit/Unit.h
+C:/Users/GL502VM/CLionProjects/Army/unit/Unit.h
+
+C:/Users/GL502VM/CLionProjects/Army/unit/Unit.h
+iostream
+-
+../state/State.h
+C:/Users/GL502VM/CLionProjects/Army/state/State.h
+set
+-
+
